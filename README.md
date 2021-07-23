@@ -4,8 +4,8 @@
 then
 ### `npm start`
 
-Most your work will me done in the App.js file and any subsequent component files that you want to create
-Feel free to Google "React JS" to learn more about what is being used
+Most your work will me done in the App.js file and any subsequent component files that you want to create\
+Feel free to Google "React JS" to learn more about what is being used\
 Reach out if you have any questions
 
 
