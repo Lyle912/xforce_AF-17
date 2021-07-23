@@ -1,4 +1,4 @@
-#To start, type:
+# To start, type:
 
 ### `npm install`
 then
